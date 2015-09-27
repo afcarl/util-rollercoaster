@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 if __name__ == '__main__':
-  name = 'allen'
+  name = 'allen_utils'
   setup(
     name         = name,
     version      = "0.0.0",
